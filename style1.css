@@ -14,12 +14,15 @@ a{
 
 #a{
   color:black;
+  font-size: 20px;
 }
 #b{
     color:black;
-  }
+    font-size: 20px;
+}
 #c{
     color:black;
+    font-size: 20px;
   }
 #d{
     text-align:center;
