@@ -49,8 +49,7 @@
     float:left;
 }
 #container2
-{
-    grid-gap: 15px;
+{   grid-gap: 15px;
     margin-top: 0;
     display:grid;
     grid-template-columns:2fr 1fr;
