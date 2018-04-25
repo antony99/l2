@@ -85,6 +85,8 @@ a{
     border:2px solid black;
 }
 #right{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
     border:2px solid black;
 }
 #o{ 
