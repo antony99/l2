@@ -16,15 +16,18 @@ a{
   font-size: 24px;
 }
 #b{
-   color:black;
-   font-size: 24px;
-}
+    color:black;
+    font-size: 24px;
+  }
 #c{
     color:black;
     font-size: 24px;
   }
-#d{
-    text-align:center;
+
+#h
+{
+   width:185px;
+   height:272px;
 }
 
 #content{
@@ -32,24 +35,31 @@ a{
     background-color: rgb(140, 140, 153);
 }
 #content div{
-    border-radius:10px;
+    border-radius:7px;
     background-color: white;
 }
-#container2
-{   
-    background-color: rgb(140, 140, 153);
-    text-align: justify;
-    font-weight: bold;
-    font-size:28px;
-}
-
 #right{
-    font-size20px;
+    text-align: justify;
+    border: 2px solid black;
+    font-size:20px;
+}
+#left{
+    border: 2px solid black;
+    font-size:20px;
 }
 
-#y
+#left img
 {
-    border-radius:7px;
+    margin:5px;
+}
+.container3{
+    float:right;
+    background-color: rgb(140, 140, 153);
+}
+.container3 div{
+    border:2px solid black;
+    border-radius:10px;
+    background-color:rgb(255,255,255);
 }
 #footer
 {
@@ -71,32 +81,4 @@ a{
 #mail
 {
     font-size:16px;
-}
-
-#container3{
-    float:right;
-    background-color: rgb(140, 140, 153);
-}
-#container3 div{
-    border:2px solid black;
-    border-radius:10px;
-    background-color:rgb(255,255,255);
-}
-#left{
-    border:2px solid black;
-}
-#right{
-    font-family:'Times New Roman', Times, serif;
-    font-size:20px;
-    border:2px solid black;
-}
-#o{ 
-    float: right;
-}
-#h{ 
-    margin-top:-15px;
-    float: left;
-}
-#t{ margin-top:15px;
-    float: left;
 }
