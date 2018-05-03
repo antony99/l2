@@ -20,14 +20,14 @@
         text-align:center;
         font-size:16px;
     }
-
-
-
-
-
-
-
-
+    #left img
+    {
+        float:left;
+    }
+    #right img
+    {
+        float:left;
+    }
 
 
     #footer{

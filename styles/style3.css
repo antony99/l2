@@ -1,3 +1,9 @@
+@import url(style.css);
+
+@import url(news-desktop.css) (min-width:1024px);
+@import url(news-tablet.css) (min-width:768px) and (max-width:1023px);
+@import url(news-mobile.css) (max-width:767px);
+
 a{
     text-decoration: none;
     color: black;
@@ -56,6 +62,10 @@ p
     text-align: justify;
     border: 3px solid black;
     font-size:20px;
+}
+.container3 div
+{
+  border-radius:7px;
 }
 
 #left img
