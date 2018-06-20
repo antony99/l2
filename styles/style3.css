@@ -1,15 +1,9 @@
-@import url(style.css);
-
-@import url(news-desktop.css) (min-width:1024px);
-@import url(news-tablet.css) (min-width:768px) and (max-width:1023px);
-@import url(news-mobile.css) (max-width:767px);
-
 a{
     text-decoration: none;
     color: black;
     margin-top:15px;
 }
-.header{
+#header{
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(140, 140, 153);
     font-family: 'Times New Roman', Times, serif;
@@ -80,10 +74,24 @@ p
     background-color: rgb(140, 140, 153);
 }
 .container3 div{
-    border:2px solid black;
     background-color:rgb(255,255,255);
 }
-
+#post1
+{
+    border:2px solid black;
+}
+#post2
+{
+    border:2px solid black;
+}
+#comm1
+{
+    border:2px solid black;
+}
+#comm2
+{
+    border:2px solid black;
+}
 
 #footer
 {

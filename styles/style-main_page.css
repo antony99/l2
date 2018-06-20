@@ -1,0 +1,5 @@
+@import url(style1.css);
+
+@import url(style-main_page-desktop.css) (min-width:1024px);
+@import url(style-main_page-tablet.css) (min-width:769px) and (max-width:1023px);
+@import url(style-main_page-mobile.css) (max-width:768px);

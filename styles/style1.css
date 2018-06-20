@@ -1,17 +1,9 @@
-@import url(style.css);
-
-@import url(main-desktop.css) (min-width:1024px);
-@import url(main-tablet.css) (min-width:769px) and (max-width:1023px);
-@import url(main-mobile.css) (max-width:768px);
-
-
-
 a{
     text-decoration: none;
     color: black;
     margin-top:15px;
 }
-#header{
+.header{
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(140, 140, 153);
     font-family: 'Times New Roman', Times, serif;
@@ -33,9 +25,8 @@ a{
   }
 #f{
     text-align:center;
-    font-size:16px;
+    font-size:20px;
 }
-
 #content{
     float:left;
     background-color: rgb(140, 140, 153);
@@ -59,7 +50,6 @@ a{
 #footer
 {
     border: 3px solid black;
-    justify-content: end;
     background-color: rgb(140, 140, 153);    
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
