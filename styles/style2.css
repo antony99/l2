@@ -11,15 +11,15 @@ a{
     border: 3px solid black;
 }
 
-#a{
+#main{
   color:black;
   font-size: 24px;
 }
-#b{
+#new{
     color:black;
     font-size: 24px;
   }
-#c{
+#about{
     color:black;
     font-size: 24px;
   }
